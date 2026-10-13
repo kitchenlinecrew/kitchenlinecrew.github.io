@@ -1,10 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Kitchen Line Crew: Pickleball Gifts for Grandma</title>
     <link>https://kitchenlinecrew.com</link>
     <description>New pins for the Pickleball Gifts for Grandma board by Kitchen Line Crew.</description>
     <language>en-us</language>
     <atom:link href="https://kitchenlinecrew.com/media/pinterest/pickleball-gifts-for-grandma.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Oct 2026 20:30:00 GMT</lastBuildDate>
+    <item>
+      <title>12 Pickleball Gifts for Grandma</title>
+      <link>https://kitchenlinecrew.com/gifts/grandma?utm_source=pinterest&amp;utm_medium=rss&amp;utm_campaign=pickleball-gifts-for-grandma&amp;utm_content=guide-grandma</link>
+      <description>12 Pickleball Gifts for Grandma: funny pickleball shirts and mugs, hand-picked by Kitchen Line Crew. Easy Christmas and birthday gifts for players who live at the kitchen line. See the whole list.</description>
+      <guid isPermaLink="false">guide-grandma@pickleball-gifts-for-grandma</guid>
+      <pubDate>Tue, 13 Oct 2026 20:30:00 GMT</pubDate>
+      <enclosure url="https://kitchenlinecrew.com/media/pinterest/pins/guide-grandma.png" length="162714" type="image/png" />
+      <media:content url="https://kitchenlinecrew.com/media/pinterest/pins/guide-grandma.png" medium="image" type="image/png" />
+    </item>
   </channel>
 </rss>

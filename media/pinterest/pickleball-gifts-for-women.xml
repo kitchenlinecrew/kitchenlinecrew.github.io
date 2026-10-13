@@ -1,10 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Kitchen Line Crew: Pickleball Gifts for Women</title>
     <link>https://kitchenlinecrew.com</link>
     <description>New pins for the Pickleball Gifts for Women board by Kitchen Line Crew.</description>
     <language>en-us</language>
     <atom:link href="https://kitchenlinecrew.com/media/pinterest/pickleball-gifts-for-women.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Oct 2026 20:34:00 GMT</lastBuildDate>
+    <item>
+      <title>Pickleball Mom Shirt, Gift for Women Who Play Pickleball</title>
+      <link>https://kitchenlinecrew.com/gifts/mom?utm_source=pinterest&amp;utm_medium=rss&amp;utm_campaign=pickleball-gifts-for-women&amp;utm_content=product-pickleball-mom-tee</link>
+      <description>“Pickleball Mom” on a pickleball shirt. An easy birthday or Christmas gift for pickleball moms and anyone who lives at the kitchen line. Printed and shipped in the US. From the Kitchen Line Crew shop on Etsy.</description>
+      <guid isPermaLink="false">product-pickleball-mom-tee@pickleball-gifts-for-women</guid>
+      <pubDate>Tue, 13 Oct 2026 20:34:00 GMT</pubDate>
+      <enclosure url="https://kitchenlinecrew.com/media/pinterest/pins/product-pickleball-mom-tee.png" length="106133" type="image/png" />
+      <media:content url="https://kitchenlinecrew.com/media/pinterest/pins/product-pickleball-mom-tee.png" medium="image" type="image/png" />
+    </item>
   </channel>
 </rss>

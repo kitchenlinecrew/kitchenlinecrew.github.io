@@ -1,10 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Kitchen Line Crew: Pickleball Retirement Gifts</title>
     <link>https://kitchenlinecrew.com</link>
     <description>New pins for the Pickleball Retirement Gifts board by Kitchen Line Crew.</description>
     <language>en-us</language>
     <atom:link href="https://kitchenlinecrew.com/media/pinterest/pickleball-retirement-gifts.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Oct 2026 20:36:00 GMT</lastBuildDate>
+    <item>
+      <title>Will Babysit After Pickleball Shirt, Gift for Retired Pickleball Players</title>
+      <link>https://kitchenlinecrew.com/shop?utm_source=pinterest&amp;utm_medium=rss&amp;utm_campaign=pickleball-retirement-gifts&amp;utm_content=product-babysit-after-pickleball-tee</link>
+      <description>“Will Babysit After Pickleball” on a pickleball shirt. An easy birthday or Christmas gift for pickleball grandmas and anyone who lives at the kitchen line. Printed and shipped in the US. From the Kitchen Line Crew shop on Etsy.</description>
+      <guid isPermaLink="false">product-babysit-after-pickleball-tee@pickleball-retirement-gifts</guid>
+      <pubDate>Tue, 13 Oct 2026 20:36:00 GMT</pubDate>
+      <enclosure url="https://kitchenlinecrew.com/media/pinterest/pins/product-babysit-after-pickleball-tee.png" length="113449" type="image/png" />
+      <media:content url="https://kitchenlinecrew.com/media/pinterest/pins/product-babysit-after-pickleball-tee.png" medium="image" type="image/png" />
+    </item>
   </channel>
 </rss>
