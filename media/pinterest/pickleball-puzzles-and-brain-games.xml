@@ -1,10 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Kitchen Line Crew: Pickleball Puzzles and Brain Games</title>
     <link>https://kitchenlinecrew.com</link>
     <description>New pins for the Pickleball Puzzles and Brain Games board by Kitchen Line Crew.</description>
     <language>en-us</language>
     <atom:link href="https://kitchenlinecrew.com/media/pinterest/pickleball-puzzles-and-brain-games.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Oct 2026 23:30:00 GMT</lastBuildDate>
+    <item>
+      <title>Free Pickleball Holiday Party Printables</title>
+      <link>https://kitchenlinecrew.com/holiday-club-kit.html?utm_source=pinterest&amp;utm_medium=rss&amp;utm_campaign=pickleball-puzzles-and-brain-games&amp;utm_content=holiday-club-kit</link>
+      <description>Throw a pickleball holiday party: ugly sweater round robin, 30 bingo cards, joke award certificates, holiday trivia and a CALL IT! advent calendar. Free PDFs, print at home.</description>
+      <guid isPermaLink="false">holiday-club-kit@pickleball-puzzles-and-brain-games</guid>
+      <pubDate>Fri, 16 Oct 2026 23:30:00 GMT</pubDate>
+      <enclosure url="https://kitchenlinecrew.com/media/pinterest/pins/holiday-club-kit.png" length="225388" type="image/png" />
+      <media:content url="https://kitchenlinecrew.com/media/pinterest/pins/holiday-club-kit.png" medium="image" type="image/png" />
+    </item>
   </channel>
 </rss>
