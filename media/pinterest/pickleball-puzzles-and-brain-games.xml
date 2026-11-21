@@ -1,20 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Kitchen Line Crew: Pickleball Puzzles and Brain Games</title>
     <link>https://kitchenlinecrew.com</link>
     <description>New pins for the Pickleball Puzzles and Brain Games board by Kitchen Line Crew.</description>
     <language>en-us</language>
     <atom:link href="https://kitchenlinecrew.com/media/pinterest/pickleball-puzzles-and-brain-games.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 23 Oct 2026 01:45:00 GMT</lastBuildDate>
-    <item>
-      <title>Pickleball Rules for Beginners</title>
-      <link>https://kitchenlinecrew.com/rules?utm_source=pinterest&amp;utm_medium=rss&amp;utm_campaign=pickleball-puzzles-and-brain-games&amp;utm_content=rules-cheat-sheet</link>
-      <description>Pickleball rules in plain English on two large-print pages: scoring and calling the score, the serve, the two-bounce rule, the kitchen and the 10 mistakes we see every week. Free to print.</description>
-      <guid isPermaLink="false">rules-cheat-sheet@pickleball-puzzles-and-brain-games</guid>
-      <pubDate>Fri, 23 Oct 2026 01:45:00 GMT</pubDate>
-      <enclosure url="https://kitchenlinecrew.com/media/pinterest/pins/rules-cheat-sheet.png" length="299223" type="image/png" />
-      <media:content url="https://kitchenlinecrew.com/media/pinterest/pins/rules-cheat-sheet.png" medium="image" type="image/png" />
-    </item>
   </channel>
 </rss>
